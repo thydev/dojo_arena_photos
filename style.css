@@ -44,3 +44,18 @@ h1 {
     opacity: 0.8;
     display: none;
 }
+
+.player1{
+    width: 150px;
+    height: auto;
+    left: 150px;
+    top: auto;
+    position: absolute;
+}
+.player2{
+    width: 150px;
+    height: auto;
+    left: 850px;
+    top: auto;
+    position: absolute;
+}
